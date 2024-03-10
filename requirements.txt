@@ -1,5 +1,5 @@
 aiohttp
-pyrogram==1.4.16
+pyrogram==2.0.106
 psycopg2-binary
 requests
 dnspython
@@ -17,7 +17,7 @@ wget==3.2
 urllib3
 numpy
 Pillow
-motor 
+motor==3.0.0
 psutil
 pymediainfo
 tracemoepy
